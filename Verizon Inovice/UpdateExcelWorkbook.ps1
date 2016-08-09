@@ -1,5 +1,5 @@
 ﻿Clear-Host
-
+#This is a comment to test
 Import-Module ActiveDirectory
 
 $i = 2
